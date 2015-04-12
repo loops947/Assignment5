@@ -31,7 +31,7 @@ def RandomOrUserGenerated(creation_of_board):
                         print "Row",i,
                         for j in range(dim):
                                 print "  ",list_of_lists[i][j]," ",
-                        print ;\
+                        print 
                
                 return
  
